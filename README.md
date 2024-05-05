@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mopifish
 - 👀 I’m interested in ...
   Game Development!!
-- 🌱 I’m currently learning ... Computer Science at WCC
+- 🌱 I’m currently working on ... A Desktop pet engine called AnyBuddy!
 
 <!---
 mopifish/mopifish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
